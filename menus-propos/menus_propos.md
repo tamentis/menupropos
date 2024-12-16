@@ -29,6 +29,7 @@ Dernière mise à jour: 16 décembre 2024
 
 ## Table des Matières
 
+[Dédicace](#dedicace)  
 [Avertissement](#avertissement)  
 [Introduction](#introduction)  
 
@@ -65,7 +66,8 @@ Dernière mise à jour: 16 décembre 2024
 <a id="dedicace"></a>
 ## Dédicace
 
-> Madame Gabrielle Mourat sera, je l'espère, indulgente sur les Menus Propos de ma douairière parce qu'elle se rapellera que, de traditions, ses aïeules attachaient autant de prix à l'exquise ordonnance de leur salle à manger qu'à la distinction innée qui était le charme de leur salon.
+> Madame Gabrielle Mourat sera, je l'espère, indulgente sur les Menus Propos de ma douairière parce qu'elle se rapellera que, de traditions, ses aïeules attachaient autant de prix à l'exquise ordonnance de leur salle à manger qu'à la distinction innée qui était le charme de leur salon.  
+> – Ch. Baille
 
 <a id="avertissement"></a>
 ## Avertissement
