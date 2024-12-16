@@ -2,6 +2,8 @@
 
 Old books I found in auctions or antiques that I couldn't find online in a searchable form. These should all be in the public domain. Feel free to notify me if they aren't, I'll happily take them down.
 
+Deployed to: [old-books.janin.com](https://old-books.janin.com/)
+
 ## Process for adding a new book
 
 Make sure you have a `.env` with `OPENAI_API_KEY` defined and source it.
