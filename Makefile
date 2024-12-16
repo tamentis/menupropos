@@ -16,3 +16,4 @@ venv:
 
 clean:
 	rm -rf dist
+	make -C menus-propos clean
