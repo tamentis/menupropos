@@ -10,5 +10,9 @@ dist:
 	make -C menus-propos
 	cp menus-propos/index.html dist/menus-propos
 
+venv:
+	python3 -m venv venv
+	./venv/bin/pip3 install -r requirements.txt
+
 clean:
 	rm -rf dist
